@@ -16,16 +16,6 @@
 
 ---
 
-### About
-
-I'm a software engineer based in Milan, Italy.
-
-I build full-stack products and backend systems with a strong focus on reliability, security, and clean architecture. My work spans production web platforms, cloud automation, cybersecurity research, and distributed infrastructure.
-
-Recently, I’ve been going deeper into **Go** and **C++** to better understand service meshes, networking, and systems programming.
-
----
-
 ### Current focus
 
 - Full-stack platforms with **React**, **Next.js**, **Django**, and **NestJS**
