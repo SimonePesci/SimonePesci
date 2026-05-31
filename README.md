@@ -16,33 +16,33 @@
 
 ---
 
-### Current focus
+### 🚀 Current Focus
 
 - Full-stack platforms with **React**, **Next.js**, **Django**, and **NestJS**
 - Cloud workflows with **AWS**, **Docker**, **Nginx**, and **GitHub Actions**
 - Distributed systems, service meshes, and backend architecture
-- Systems programming with **Go** and **C++20**
+- Systems programming with **Go** and **Rust**
 
 ---
 
-### Featured work
+### 🛠️ Featured Work
 
 | Project | Description | Stack |
-|---|---|---|
+|:---|:---|:---|
 | [GoMesh](https://github.com/SimonePesci/GoMesh) | Service mesh from scratch with a gRPC control plane, proxy registration, metrics, and tracing. | Go, gRPC, Protobuf, Prometheus |
-| [PortBridge](https://github.com/SimonePesci/portbridge) | C++20 tunneling project inspired by ngrok/cloudflared, built to explore networking and protocol design. | C++20, CMake, TCP |
+| [OpenTunnel](https://github.com/SimonePesci/opentunnel) | Secure, high-performance tunneling tool inspired by ngrok/cloudflared, built to explore low-level networking and efficient protocol design. | Rust, Tokio, TCP |
 | [BlockHealth](https://github.com/SimonePesci/ResearchUnimi--FHIR) | Secure healthcare framework using blockchain identity, Merkle integrity, Cassandra, and proxy re-encryption. | Node.js, Solidity, Flask, Cassandra |
 | [FastTx](https://github.com/SimonePesci/FastTx) | Off-chain micro-transaction framework designed to reduce blockchain gas costs. | Node.js, Solidity, Ethereum |
 
 ---
 
-### Tech stack
+### 💻 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
 </p>
 
@@ -57,10 +57,10 @@
 
 ---
 
-### Research
+### 🔬 Research
 
 Co-author of **BlockHealth: a Blockchain based Framework for Secure and Efficient Healthcare Data Management**  
-DOI: https://doi.org/10.1016/j.bcra.2026.100468
+🔗 DOI: [https://doi.org/10.1016/j.bcra.2026.100468](https://doi.org/10.1016/j.bcra.2026.100468)
 
 ---
 
