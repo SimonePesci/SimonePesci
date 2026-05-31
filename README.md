@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Featured Work
+### 🛠️ Featured Open Source Work
 
 | Project | Description | Stack |
 |:---|:---|:---|
