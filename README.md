@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Simone Pesci 👋</h1>
-
 <p align="center">
-  <b>Full Stack Software Engineer</b><br/>
-  Secure web platforms · Cloud workflows · Distributed systems
+  <b>Software Engineer</b><br/>
+  Web Development · Cloud workflows · Distributed systems
 </p>
 
 <p align="center">
