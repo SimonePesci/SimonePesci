@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Simone Pesci 👋</h1>
+
 <p align="center">
   <b>Software Engineer</b><br/>
   Web Development · Cloud workflows · Distributed systems
@@ -14,7 +16,7 @@
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 
 - Full-stack platforms with **React**, **Next.js**, **Django**, and **NestJS**
 - Cloud workflows with **AWS**, **Docker**, **Nginx**, and **GitHub Actions**
